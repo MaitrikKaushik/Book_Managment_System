@@ -1,7 +1,7 @@
 Project Title: Book Management System
 
-## **Short Description:**  
-The **Book Management System** is a C++ application that allows users to manage a collection of books efficiently. The system provides functionalities to **add new books**, **display all books**, and **search for books** based on different criteria.
+**Short Description:**  
+The Book Management System is a C++ application that allows users to manage a collection of books efficiently. The system provides functionalities to **add new books**, **display all books**, and **search for books** based on different criteria.
 
 ## **Steps to Run the Project:**  
 
